@@ -1,1 +1,1 @@
-# Encourage-Discord-BOT-
+# Encourage-Discord-BOT
